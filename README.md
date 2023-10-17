@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ipayjs
-- 👀 I’m interested in CALISTENIC
-- 🌱 I’m currently learning JAVA SCRIPT
+- 👀 I’m interested in C
+- 🌱 I’m currently learning HTML CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
