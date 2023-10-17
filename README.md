@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ipayjs
-- 👀 I’m interested in C
+- 👀 I’m interested in FRONT END DEVELOPER
 - 🌱 I’m currently learning HTML CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
